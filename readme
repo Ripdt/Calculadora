@@ -1,2 +1,36 @@
-Projeto HTML com CSS e JavaScript para estudos.
-Calculadora funcional.
+# Calculadora Web
+
+![Calculadora Screenshot](calculadora-screenshot.png)
+
+Este é um projeto simples de calculadora web desenvolvido com HTML, CSS e JavaScript, criado com o objetivo de aprimorar meus conhecimentos em desenvolvimento web. A calculadora é totalmente funcional e pode executar operações matemáticas básicas.
+
+## Funcionalidades
+
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+
+## Tecnologias Utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+## Como Utilizar
+
+1. Faça o clone deste repositório:
+
+git clone https://github.com/seu-usuario/calculadora-web.git
+
+2. Abra o arquivo `calculadora.html` em seu navegador.
+
+3. Use os botões da calculadora para realizar cálculos.
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issues) e enviar pull requests com melhorias.
+
+---
+
+Aproveite a calculadora e divirta-se explorando o código fonte para aprender mais sobre desenvolvimento web!
